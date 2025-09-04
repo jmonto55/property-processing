@@ -1,0 +1,56 @@
+{
+  "took": 11,
+  "timed_out": false,
+  "_shards": {
+    "total": 5,
+    "successful": 5,
+    "skipped": 0,
+    "failed": 0
+  },
+  "hits": {
+    "total": {
+      "value": 500,
+      "relation": "eq"
+    },
+    "max_score": 2071033700,
+    "hits": [
+      {
+        "_index": "properties",
+        "_type": "_doc",
+        "_id": "1",
+        "_score": 1.0,
+        "_source": {
+          "property_id": "12345",
+          "title": "Apartamento en Bogotá",
+          "price": 350000000,
+          "location": "Bogotá, Chapinero",
+          "bedrooms": 3,
+          "bathrooms": 2,
+          "area": 85
+        }
+      },
+      {
+        "_index": "properties", 
+        "_type": "_doc",
+        "_id": "2",
+        "_score": 0.9,
+        "_source": {
+          "property_id": "67890",
+          "title": "Casa en Medellín",
+          "price": 500000000,
+          "location": "Medellín, El Poblado",
+          "bedrooms": 4,
+          "bathrooms": 3,
+          "area": 120
+        }
+      }
+    ]
+  },
+  "data": {
+    "filters": {},
+    "search_params": {
+      "city": "bogota",
+      "property_type": "apartment"
+    }
+  }
+}

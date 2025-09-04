@@ -1,0 +1,67 @@
+{
+  "success": true,
+  "message": "Búsqueda realizada con éxito",
+  "data": {
+    "total": 4048,
+    "totalPages": 203,
+    "highlights": [
+      {
+        "id": "12345",
+        "title": "Apartamento destacado en Bogotá",
+        "price": 450000000,
+        "location": "Bogotá, Zona Rosa"
+      }
+    ],
+    "results": [
+      {
+        "id": "67890",
+        "title": "Apartamento en venta en Chapinero",
+        "price": 380000000,
+        "currency": "COP",
+        "location": {
+          "city": "Bogotá",
+          "neighborhood": "Chapinero",
+          "address": "Calle 63 #11-45"
+        },
+        "details": {
+          "bedrooms": 2,
+          "bathrooms": 2,
+          "area": 75,
+          "type": "apartamento"
+        },
+        "images": [
+          "image1.jpg",
+          "image2.jpg"
+        ]
+      },
+      {
+        "id": "11111",
+        "title": "Casa moderna en El Poblado",
+        "price": 850000000,
+        "currency": "COP",
+        "location": {
+          "city": "Medellín",
+          "neighborhood": "El Poblado",
+          "address": "Carrera 43A #5-15"
+        },
+        "details": {
+          "bedrooms": 4,
+          "bathrooms": 3,
+          "area": 180,
+          "type": "casa"
+        },
+        "images": [
+          "house1.jpg",
+          "house2.jpg"
+        ]
+      }
+    ],
+    "mapResults": [
+      {
+        "lat": 4.6097,
+        "lng": -74.0817,
+        "properties": 15
+      }
+    ]
+  }
+}

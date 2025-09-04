@@ -1,0 +1,2500 @@
+{
+  "responseCode": 1000,
+  "message": "Operation performed successfully",
+  "data": {
+      "metadata": {
+          "imagesUrl": "https://multimedia.metrocuadrado.com"
+      },
+      "result": {
+          "propertiesByFiltersQuery": {
+              "count": 16,
+              "total": 116,
+              "batch": {
+                  "realEstate": {
+                      "from": 100,
+                      "pages": [
+                          0,
+                          100,
+                          116
+                      ]
+                  },
+                  "seller": {
+                      "from": 0,
+                      "pages": [
+                          0,
+                          0,
+                          0
+                      ]
+                  }
+              },
+              "properties": [
+                  {
+                      "country": {
+                          "code": "1",
+                          "name": "Colombia",
+                          "id": "1",
+                          "label": "Colombia"
+                      },
+                      "agent": null,
+                      "roomsNumber": 4,
+                      "areaRangeLabel": "101 a 200",
+                      "builtTime": {
+                          "name": "Más de 20 años",
+                          "id": null,
+                          "label": "Más de 20 años"
+                      },
+                      "updatedDate": "2025-09-04T13:01:49.000Z",
+                      "salePriceRangeLabel": "400'000.001 a 500'000.000",
+                      "offeror": {
+                          "name": "GRUPO EMPRESARIAL MONOPOLIO INMOBILIARIO",
+                          "type": "RealEstate"
+                      },
+                      "features": [
+                          "area:180.00",
+                          "areaConstruida:180.00",
+                          "conCocinaIntegral_o:S",
+                          "conTerraza_o:S",
+                          "conZonaLavanderia:S",
+                          "nroBanos:3",
+                          "nroCuartos:4",
+                          "nroGarajes:0",
+                          "nroPiso:4",
+                          "tiempoConstruido:Más de 20 años"
+                      ],
+                      "aproximatelocation": "N",
+                      "adminPrice": null,
+                      "zone": {
+                          "code": "37",
+                          "name": "Suroccidente",
+                          "id": "37",
+                          "label": "Suroccidente"
+                      },
+                      "price": 435000000,
+                      "checked": "Inmueble No Verificado",
+                      "id": "2895-M4599646",
+                      "sector": {
+                          "name": "Suroccidente"
+                      },
+                      "area": 180,
+                      "forSale": "N",
+                      "extraFeatures": [
+                          "conCocinaIntegral_o",
+                          "conTerraza_o",
+                          "conZonaLavanderia"
+                      ],
+                      "forRent": "N",
+                      "categoryType": null,
+                      "neighborhood": {
+                          "commonName": "Belen",
+                          "code": "0003-0078",
+                          "name": "LAS PLAYAS",
+                          "id": "0003-0078",
+                          "label": "LAS PLAYAS"
+                      },
+                      "region": {
+                          "code": "2",
+                          "name": "Antioquia",
+                          "id": "2",
+                          "label": "Antioquia"
+                      },
+                      "lotType": null,
+                      "status": "Usado",
+                      "amenities": {
+                          "disabilityOk": "N",
+                          "aloneOk": "N",
+                          "childrenOk": "N",
+                          "gymOk": "N",
+                          "petsOk": "N",
+                          "outdoorActivitiesOk": "N",
+                          "bikeUserOk": "N"
+                      },
+                      "city": {
+                          "code": "medellin",
+                          "name": "Medellín",
+                          "id": "3",
+                          "label": "Medellín"
+                      },
+                      "checkInDate": "2023-10-02T13:39:34.000Z",
+                      "propertyType": {
+                          "code": "1",
+                          "name": "Apartamento",
+                          "id": "1",
+                          "label": "Apartamento"
+                      },
+                      "@version": "1",
+                      "rentPrice": null,
+                      "comments": "Apartamento Duplex en venta en MEDELLIN - ZONA 3 OCCIDENTE MEDELLIN - NOROCCIDENTE Belen - Estadio Código 28265\n\nApartamento Duplex en venta en el barrio BELEN. ubicado en el piso N° 4, la cocina es Integral, piso en Ceramica, estrato 3, con un área de 180 metros aproximadamente, con 4 alcobas, 3 baños, con zona de ropas, con red de gas,\n",
+                      "salePrice": 435000000,
+                      "isPublished": "Y",
+                      "metroId": "2895-M4599646",
+                      "url": "/inmueble/venta-apartamento-medellin-las-playas-4-habitaciones-3-banos/2895-M4599646",
+                      "stratum": 3,
+                      "multimedia": {
+                          "images": {
+                              "count": 15,
+                              "files": [
+                                  "2895-M4599646_31",
+                                  "2895-M4599646_32",
+                                  "2895-M4599646_33",
+                                  "2895-M4599646_34",
+                                  "2895-M4599646_35",
+                                  "2895-M4599646_36",
+                                  "2895-M4599646_37",
+                                  "2895-M4599646_38",
+                                  "2895-M4599646_39",
+                                  "2895-M4599646_40",
+                                  "2895-M4599646_41",
+                                  "2895-M4599646_42",
+                                  "2895-M4599646_43",
+                                  "2895-M4599646_44",
+                                  "2895-M4599646_45"
+                              ],
+                              "mainFile": "2895-M4599646_31"
+                          }
+                      },
+                      "@timestamp": "2025-09-04T13:05:24.267630935Z",
+                      "bathroomsNumber": 3,
+                      "rentPriceRangeLabel": "N/A",
+                      "storageType": null,
+                      "location": {
+                          "lon": -75.5933121,
+                          "lat": 6.2228476
+                      },
+                      "publishedDate": "2024-11-26T00:22:53.000Z",
+                      "builtArea": 180,
+                      "businessType": {
+                          "code": "1",
+                          "name": "venta",
+                          "id": "1",
+                          "label": "venta"
+                      },
+                      "notificationCode": null,
+                      "offerorType": "Otro",
+                      "parkingNumber": 0
+                  },
+                  {
+                      "country": {
+                          "code": "1",
+                          "name": "Colombia",
+                          "id": "1",
+                          "label": "Colombia"
+                      },
+                      "agent": null,
+                      "roomsNumber": 3,
+                      "areaRangeLabel": "61 a 100",
+                      "builtTime": {
+                          "name": "Más de 20 años",
+                          "id": null,
+                          "label": "Más de 20 años"
+                      },
+                      "updatedDate": "2025-09-04T13:01:48.000Z",
+                      "salePriceRangeLabel": "400'000.001 a 500'000.000",
+                      "offeror": {
+                          "name": "GRUPO EMPRESARIAL MONOPOLIO INMOBILIARIO",
+                          "type": "RealEstate"
+                      },
+                      "features": [
+                          "area:65",
+                          "areaConstruida:65",
+                          "cercaColegioUniversidad:S",
+                          "cercaTransportePublico:S",
+                          "conCalefaccion:S",
+                          "conCocinaIntegral_o:S",
+                          "conZonaLavanderia:S",
+                          "nroBanos:1",
+                          "nroCuartos:3",
+                          "nroGarajes:0",
+                          "nroPiso:2",
+                          "tiempoConstruido:Más de 20 años",
+                          "zonaResidencial:S"
+                      ],
+                      "aproximatelocation": "N",
+                      "adminPrice": null,
+                      "zone": {
+                          "code": "37",
+                          "name": "Suroccidente",
+                          "id": "37",
+                          "label": "Suroccidente"
+                      },
+                      "price": 450000000,
+                      "checked": "Inmueble No Verificado",
+                      "id": "2895-M4861465",
+                      "sector": {
+                          "name": "Suroccidente"
+                      },
+                      "area": 65,
+                      "forSale": "N",
+                      "extraFeatures": [
+                          "cercaColegioUniversidad",
+                          "cercaTransportePublico",
+                          "conCalefaccion",
+                          "conCocinaIntegral_o",
+                          "conZonaLavanderia",
+                          "zonaResidencial"
+                      ],
+                      "forRent": "N",
+                      "categoryType": null,
+                      "neighborhood": {
+                          "commonName": "Belen",
+                          "code": "0003-0078",
+                          "name": "LAS PLAYAS",
+                          "id": "0003-0078",
+                          "label": "LAS PLAYAS"
+                      },
+                      "region": {
+                          "code": "2",
+                          "name": "Antioquia",
+                          "id": "2",
+                          "label": "Antioquia"
+                      },
+                      "lotType": null,
+                      "status": "Usado",
+                      "amenities": {
+                          "disabilityOk": "N",
+                          "aloneOk": "N",
+                          "childrenOk": "N",
+                          "gymOk": "N",
+                          "petsOk": "N",
+                          "outdoorActivitiesOk": "N",
+                          "bikeUserOk": "N"
+                      },
+                      "city": {
+                          "code": "medellin",
+                          "name": "Medellín",
+                          "id": "3",
+                          "label": "Medellín"
+                      },
+                      "checkInDate": "2024-03-16T11:58:28.000Z",
+                      "propertyType": {
+                          "code": "1",
+                          "name": "Apartamento",
+                          "id": "1",
+                          "label": "Apartamento"
+                      },
+                      "@version": "1",
+                      "rentPrice": null,
+                      "comments": "MAGNIFICO APARTAMENTO EN VENTA - SECTOR LAS PLAYAS, BELEN COD 25944\n\nMagnífico apartamento en venta con maravillosa ventilación e iluminación natural, con cercanía centros educativos y espacios deportivos, área de 65 metros aproximadamente, sector Las Playas en Belén, 2 piso, estrato 3 en edificio. En sus espacios encontramos zona social de sala comedor, tres alcobas, un closet, un baño social enchapado, calentador de gas, funcional cocina integral mixta con horno, extractor, anaqueles inferiores y superiores, red de gas, zona de ropas. Piso en baldosa, pintura en excelente estado.\n\nNO INCLUYE MOBILIARIO\n\n \n\nDescripción del sector\nSector residencial cercano a la cancha Belén Las Playas, Institución Educativa Jesús María Céspedes La Playa, Colegio de La Inmaculada, Estación de Policía, avenida 80, Instituto San Carlos, Malla La Gran Vía.\n",
+                      "salePrice": 450000000,
+                      "isPublished": "Y",
+                      "metroId": "2895-M4861465",
+                      "url": "/inmueble/venta-apartamento-medellin-las-playas-3-habitaciones-1-banos/2895-M4861465",
+                      "stratum": 3,
+                      "multimedia": {
+                          "images": {
+                              "count": 8,
+                              "files": [
+                                  "2895-M4861465_1",
+                                  "2895-M4861465_2",
+                                  "2895-M4861465_3",
+                                  "2895-M4861465_4",
+                                  "2895-M4861465_5",
+                                  "2895-M4861465_6",
+                                  "2895-M4861465_7",
+                                  "2895-M4861465_8"
+                              ],
+                              "mainFile": "2895-M4861465_1"
+                          }
+                      },
+                      "@timestamp": "2025-09-04T13:06:07.254058189Z",
+                      "bathroomsNumber": 1,
+                      "rentPriceRangeLabel": "N/A",
+                      "storageType": null,
+                      "location": {
+                          "lon": -75.5969923,
+                          "lat": 6.2197705
+                      },
+                      "publishedDate": "2025-08-14T03:10:08.000Z",
+                      "builtArea": 65,
+                      "businessType": {
+                          "code": "1",
+                          "name": "venta",
+                          "id": "1",
+                          "label": "venta"
+                      },
+                      "notificationCode": null,
+                      "offerorType": "Otro",
+                      "parkingNumber": 0
+                  },
+                  {
+                      "country": {
+                          "code": "1",
+                          "name": "Colombia",
+                          "id": "1",
+                          "label": "Colombia"
+                      },
+                      "agent": null,
+                      "roomsNumber": 4,
+                      "areaRangeLabel": "101 a 200",
+                      "builtTime": {
+                          "name": "Más de 20 años",
+                          "id": null,
+                          "label": "Más de 20 años"
+                      },
+                      "updatedDate": "2025-09-04T12:19:25.000Z",
+                      "salePriceRangeLabel": "400'000.001 a 500'000.000",
+                      "offeror": {
+                          "name": "INMOBILIARIA MATTIS",
+                          "type": "RealEstate"
+                      },
+                      "features": [
+                          "area:120",
+                          "areaConstruida:120",
+                          "cercaColegioUniversidad:S",
+                          "conCocinaIntegral_o:S",
+                          "nroBanos:1",
+                          "nroCuartos:4",
+                          "nroGarajes:0",
+                          "patio:S",
+                          "tiempoConstruido:Más de 20 años",
+                          "tipoCocinaLista:Lineal"
+                      ],
+                      "aproximatelocation": "N",
+                      "adminPrice": null,
+                      "zone": {
+                          "code": "37",
+                          "name": "Suroccidente",
+                          "id": "37",
+                          "label": "Suroccidente"
+                      },
+                      "price": 430000000,
+                      "checked": "Inmueble No Verificado",
+                      "id": "3267-M5530731",
+                      "sector": {
+                          "name": "Suroccidente"
+                      },
+                      "area": 120,
+                      "forSale": "N",
+                      "extraFeatures": [
+                          "cercaColegioUniversidad",
+                          "conCocinaIntegral_o",
+                          "patio"
+                      ],
+                      "forRent": "N",
+                      "categoryType": null,
+                      "neighborhood": {
+                          "commonName": "Belen Las Playas",
+                          "code": "0003-0078",
+                          "name": "LAS PLAYAS",
+                          "id": "0003-0078",
+                          "label": "LAS PLAYAS"
+                      },
+                      "region": {
+                          "code": "2",
+                          "name": "Antioquia",
+                          "id": "2",
+                          "label": "Antioquia"
+                      },
+                      "lotType": null,
+                      "status": "Usado",
+                      "amenities": {
+                          "disabilityOk": "N",
+                          "aloneOk": "N",
+                          "childrenOk": "N",
+                          "gymOk": "N",
+                          "petsOk": "N",
+                          "outdoorActivitiesOk": "N",
+                          "bikeUserOk": "N"
+                      },
+                      "city": {
+                          "code": "medellin",
+                          "name": "Medellín",
+                          "id": "3",
+                          "label": "Medellín"
+                      },
+                      "checkInDate": "2025-01-16T12:53:35.000Z",
+                      "propertyType": {
+                          "code": "2",
+                          "name": "Casa",
+                          "id": "2",
+                          "label": "Casa"
+                      },
+                      "@version": "1",
+                      "rentPrice": null,
+                      "comments": "Hermosa Casa PH para la venta en Belén las Playas primer piso \n120 mt,  $460,000,000 \nReformada \nSala comedor 4 alcobas, 1 baño, garaje en la parte de afuera de la casa, posibilidad de garaje dentro de la casa, patio, cocina integral reformada muy bonita,\nMuy bien ubicada, en calle tranquila, cerca al aeroparque, cerca a la María Luis Calle, al Centro Comercial Arkadia, cerca a Pricesmart. MG",
+                      "salePrice": 430000000,
+                      "isPublished": "Y",
+                      "metroId": "3267-M5530731",
+                      "url": "/inmueble/venta-casa-medellin-las-playas-4-habitaciones-1-banos/3267-M5530731",
+                      "stratum": 3,
+                      "multimedia": {
+                          "images": {
+                              "count": 15,
+                              "files": [
+                                  "3267-M5530731_46",
+                                  "3267-M5530731_47",
+                                  "3267-M5530731_48",
+                                  "3267-M5530731_49",
+                                  "3267-M5530731_50",
+                                  "3267-M5530731_51",
+                                  "3267-M5530731_52",
+                                  "3267-M5530731_53",
+                                  "3267-M5530731_54",
+                                  "3267-M5530731_55",
+                                  "3267-M5530731_56",
+                                  "3267-M5530731_57",
+                                  "3267-M5530731_58",
+                                  "3267-M5530731_59",
+                                  "3267-M5530731_60"
+                              ],
+                              "mainFile": "3267-M5530731_46"
+                          }
+                      },
+                      "@timestamp": "2025-09-04T12:20:29.297340587Z",
+                      "bathroomsNumber": 1,
+                      "rentPriceRangeLabel": "N/A",
+                      "storageType": null,
+                      "location": {
+                          "lon": -75.59436,
+                          "lat": 6.22045
+                      },
+                      "publishedDate": "2025-04-04T16:35:50.000Z",
+                      "builtArea": 120,
+                      "businessType": {
+                          "code": "1",
+                          "name": "venta",
+                          "id": "1",
+                          "label": "venta"
+                      },
+                      "notificationCode": null,
+                      "offerorType": "Inmobiliaria",
+                      "parkingNumber": 0
+                  },
+                  {
+                      "country": {
+                          "code": "1",
+                          "name": "Colombia",
+                          "id": "1",
+                          "label": "Colombia"
+                      },
+                      "agent": null,
+                      "roomsNumber": 4,
+                      "areaRangeLabel": "101 a 200",
+                      "builtTime": {
+                          "name": "Entre 10 y 20 años",
+                          "id": null,
+                          "label": "Entre 10 y 20 años"
+                      },
+                      "updatedDate": "2025-09-04T12:19:25.000Z",
+                      "salePriceRangeLabel": "400'000.001 a 500'000.000",
+                      "offeror": {
+                          "name": "INMOBILIARIA MATTIS",
+                          "type": "RealEstate"
+                      },
+                      "features": [
+                          "area:120",
+                          "areaConstruida:120",
+                          "cercaCentroComercial:S",
+                          "cercaColegioUniversidad:S",
+                          "cercaSupermercado:S",
+                          "conCitofono:S",
+                          "conCocinaAmericana_o:S",
+                          "conCocinaIntegral_o:S",
+                          "nroBanos:3",
+                          "nroCuartos:4",
+                          "nroGarajes:0",
+                          "sobreViaSecundaria:S",
+                          "tiempoConstruido:Entre 10 y 20 años",
+                          "tipoCalentador:Gas",
+                          "tipoCocinaLista:Lineal",
+                          "zonaComercial:S",
+                          "zonaResidencial:S"
+                      ],
+                      "aproximatelocation": null,
+                      "adminPrice": null,
+                      "zone": {
+                          "name": null,
+                          "id": null
+                      },
+                      "price": 500000000,
+                      "checked": "Inmueble No Verificado",
+                      "id": "3267-M5951680",
+                      "sector": {
+                          "name": null
+                      },
+                      "area": 120,
+                      "forSale": "N",
+                      "extraFeatures": [
+                          "cercaCentroComercial",
+                          "cercaColegioUniversidad",
+                          "cercaSupermercado",
+                          "conCitofono",
+                          "conCocinaAmericana_o",
+                          "conCocinaIntegral_o",
+                          "sobreViaSecundaria",
+                          "zonaComercial",
+                          "zonaResidencial"
+                      ],
+                      "forRent": "N",
+                      "categoryType": null,
+                      "neighborhood": {
+                          "commonName": "Belen San Bernardo",
+                          "code": "0",
+                          "name": "BELEN SAN BERNARDO",
+                          "id": "0",
+                          "label": "BELEN SAN BERNARDO"
+                      },
+                      "region": {
+                          "code": "2",
+                          "name": "Antioquia",
+                          "id": "2",
+                          "label": "Antioquia"
+                      },
+                      "lotType": null,
+                      "status": "Usado",
+                      "amenities": {
+                          "disabilityOk": "N",
+                          "aloneOk": "N",
+                          "childrenOk": "N",
+                          "gymOk": "N",
+                          "petsOk": "N",
+                          "outdoorActivitiesOk": "N",
+                          "bikeUserOk": "N"
+                      },
+                      "city": {
+                          "code": "medellin",
+                          "name": "Medellín",
+                          "id": "3",
+                          "label": "Medellín"
+                      },
+                      "checkInDate": "2025-07-22T14:28:28.000Z",
+                      "propertyType": {
+                          "code": "1",
+                          "name": "Apartamento",
+                          "id": "1",
+                          "label": "Apartamento"
+                      },
+                      "@version": "1",
+                      "rentPrice": null,
+                      "comments": "¡Vive en una zona tradicional, tranquila y altamente conectada! Este apartamento recién remodelado en Belén San Bernardo te ofrece comodidad, amplitud y excelente ubicación.\n\nÁrea construida 120 M2\nAlcobas 4\nBaños 3\nUbicación Piso 3 acceso por escalas\nNo paga administracion\n\n¿ Distribución y características\nUna habitación principal amplia con balcon, baño privado y closet \nUna habitaciones auxililar con clóset y baño privado\nUna habitación auxiliar con clóset y vista al exterior\nUna habitacion axililar sin closet y vista a exterior\n 3  baños completos , todos en excelente estado y con acabados modernos\nCocina integral moderna con muy buena iluminación y acabados contemporáneos\nSala y comedor amplios e iluminados\nBalcón con vista panorámica exterior\nZona de ropas independiente, amplia, con calentador\nMuy buena ventilación e iluminación natural en todo el apartamento\n\nApartamento recién remodelado, en excelentes condiciones\nUbicación estratégica\n  ",
+                      "salePrice": 500000000,
+                      "isPublished": "Y",
+                      "metroId": "3267-M5951680",
+                      "url": "/inmueble/venta-apartamento-medellin-belen-san-bernardo-4-habitaciones-3-banos/3267-M5951680",
+                      "stratum": 3,
+                      "multimedia": {
+                          "images": {
+                              "count": 15,
+                              "files": [
+                                  "3267-M5951680_1",
+                                  "3267-M5951680_2",
+                                  "3267-M5951680_3",
+                                  "3267-M5951680_4",
+                                  "3267-M5951680_5",
+                                  "3267-M5951680_6",
+                                  "3267-M5951680_7",
+                                  "3267-M5951680_8",
+                                  "3267-M5951680_9",
+                                  "3267-M5951680_10",
+                                  "3267-M5951680_11",
+                                  "3267-M5951680_12",
+                                  "3267-M5951680_13",
+                                  "3267-M5951680_14",
+                                  "3267-M5951680_15"
+                              ],
+                              "mainFile": "3267-M5951680_1"
+                          }
+                      },
+                      "@timestamp": "2025-09-04T12:20:26.248815054Z",
+                      "bathroomsNumber": 3,
+                      "rentPriceRangeLabel": "N/A",
+                      "storageType": null,
+                      "location": {
+                          "lon": -75.59573,
+                          "lat": 6.22732
+                      },
+                      "publishedDate": "2025-08-20T03:10:09.000Z",
+                      "builtArea": 120,
+                      "businessType": {
+                          "code": "1",
+                          "name": "venta",
+                          "id": "1",
+                          "label": "venta"
+                      },
+                      "notificationCode": null,
+                      "offerorType": "Inmobiliaria",
+                      "parkingNumber": 0
+                  },
+                  {
+                      "country": {
+                          "code": "1",
+                          "name": "Colombia",
+                          "id": "1",
+                          "label": "Colombia"
+                      },
+                      "agent": null,
+                      "roomsNumber": 3,
+                      "areaRangeLabel": "61 a 100",
+                      "builtTime": {
+                          "name": "Más de 20 años",
+                          "id": null,
+                          "label": "Más de 20 años"
+                      },
+                      "updatedDate": "2025-09-04T13:01:48.000Z",
+                      "salePriceRangeLabel": "500'000.001 a 650'000.000",
+                      "offeror": {
+                          "name": "GRUPO EMPRESARIAL MONOPOLIO INMOBILIARIO",
+                          "type": "RealEstate"
+                      },
+                      "features": [
+                          "area:100.00",
+                          "areaConstruida:100.00",
+                          "ascensor:S",
+                          "conCocinaIntegral_o:S",
+                          "conZonaLavanderia:S",
+                          "nroBanos:5",
+                          "nroCuartos:3",
+                          "nroGarajes:0",
+                          "nroPiso:7",
+                          "porteria:S",
+                          "recepcionLobby:S",
+                          "terrazaBalcon:Balcón",
+                          "tiempoConstruido:Más de 20 años"
+                      ],
+                      "aproximatelocation": "N",
+                      "adminPrice": 385000,
+                      "zone": {
+                          "code": "37",
+                          "name": "Suroccidente",
+                          "id": "37",
+                          "label": "Suroccidente"
+                      },
+                      "price": 550000000,
+                      "checked": "Inmueble No Verificado",
+                      "id": "2895-M4811489",
+                      "sector": {
+                          "name": "Suroccidente"
+                      },
+                      "area": 100,
+                      "forSale": "N",
+                      "extraFeatures": [
+                          "ascensor",
+                          "conCocinaIntegral_o",
+                          "conZonaLavanderia",
+                          "porteria",
+                          "recepcionLobby"
+                      ],
+                      "forRent": "N",
+                      "categoryType": null,
+                      "neighborhood": {
+                          "commonName": "Belen",
+                          "code": "0003-0062",
+                          "name": "SAN BERNARDO",
+                          "id": "0003-0062",
+                          "label": "SAN BERNARDO"
+                      },
+                      "region": {
+                          "code": "2",
+                          "name": "Antioquia",
+                          "id": "2",
+                          "label": "Antioquia"
+                      },
+                      "lotType": null,
+                      "status": "Usado",
+                      "amenities": {
+                          "disabilityOk": "N",
+                          "aloneOk": "N",
+                          "childrenOk": "N",
+                          "gymOk": "N",
+                          "petsOk": "N",
+                          "outdoorActivitiesOk": "N",
+                          "bikeUserOk": "N"
+                      },
+                      "city": {
+                          "code": "medellin",
+                          "name": "Medellín",
+                          "id": "3",
+                          "label": "Medellín"
+                      },
+                      "checkInDate": "2024-02-17T11:23:07.000Z",
+                      "propertyType": {
+                          "code": "1",
+                          "name": "Apartamento",
+                          "id": "1",
+                          "label": "Apartamento"
+                      },
+                      "@version": "1",
+                      "rentPrice": null,
+                      "comments": "APARTAMENTO EN VENTA - SECTOR SAN BERNARDO, BELEN COD 21855\r\nMagnífico apartamento en venta, con un área de 100 metros aproximadamente, sector San Bernardo en Belén, 7° piso, estrato 5 en edificio. Disfrutamos en su interior de sala y comedor independientes, tres alcobas con closet cada una, un baño privado y un baño social enchapados y cabinados; funcional cocina integral mixta con horno, anaqueles inferiores y superiores, red de gas, zona de ropas y balcón. Piso en porcelanato, pintura en excelente estado.\r\nParqueadero cubierto, cuarto útil y ascensor con tarjeta electrónica.\r\nPortería digital.\r\nNO INCLUYE MOBILIARIO",
+                      "salePrice": 550000000,
+                      "isPublished": "Y",
+                      "metroId": "2895-M4811489",
+                      "url": "/inmueble/venta-apartamento-medellin-san-bernardo-3-habitaciones-5-banos/2895-M4811489",
+                      "stratum": 5,
+                      "multimedia": {
+                          "images": {
+                              "count": 12,
+                              "files": [
+                                  "2895-M4811489_63",
+                                  "2895-M4811489_64",
+                                  "2895-M4811489_65",
+                                  "2895-M4811489_66",
+                                  "2895-M4811489_67",
+                                  "2895-M4811489_68",
+                                  "2895-M4811489_69",
+                                  "2895-M4811489_70",
+                                  "2895-M4811489_71",
+                                  "2895-M4811489_72",
+                                  "2895-M4811489_73",
+                                  "2895-M4811489_74"
+                              ],
+                              "mainFile": "2895-M4811489_63"
+                          }
+                      },
+                      "@timestamp": "2025-09-04T13:05:33.610071133Z",
+                      "bathroomsNumber": 5,
+                      "rentPriceRangeLabel": "N/A",
+                      "storageType": null,
+                      "location": {
+                          "lon": -75.5965302,
+                          "lat": 6.2248535
+                      },
+                      "publishedDate": "2025-09-02T03:10:07.000Z",
+                      "builtArea": 100,
+                      "businessType": {
+                          "code": "1",
+                          "name": "venta",
+                          "id": "1",
+                          "label": "venta"
+                      },
+                      "notificationCode": null,
+                      "offerorType": "Otro",
+                      "parkingNumber": 0
+                  },
+                  {
+                      "country": {
+                          "code": "1",
+                          "name": "Colombia",
+                          "id": "1",
+                          "label": "Colombia"
+                      },
+                      "agent": null,
+                      "roomsNumber": 3,
+                      "areaRangeLabel": "61 a 100",
+                      "builtTime": {
+                          "name": "Más de 20 años",
+                          "id": null,
+                          "label": "Más de 20 años"
+                      },
+                      "updatedDate": "2025-09-04T13:01:48.000Z",
+                      "salePriceRangeLabel": "300'000.001 a 400'000.000",
+                      "offeror": {
+                          "name": "GRUPO EMPRESARIAL MONOPOLIO INMOBILIARIO",
+                          "type": "RealEstate"
+                      },
+                      "features": [
+                          "area:98.00",
+                          "areaConstruida:98.00",
+                          "conCalefaccion:S",
+                          "conCocinaIntegral_o:S",
+                          "conZonaLavanderia:S",
+                          "nroBanos:5",
+                          "nroCuartos:3",
+                          "nroGarajes:0",
+                          "nroPiso:1",
+                          "tiempoConstruido:Más de 20 años"
+                      ],
+                      "aproximatelocation": "N",
+                      "adminPrice": null,
+                      "zone": {
+                          "code": "37",
+                          "name": "Suroccidente",
+                          "id": "37",
+                          "label": "Suroccidente"
+                      },
+                      "price": 350000000,
+                      "checked": "Inmueble No Verificado",
+                      "id": "2895-M4961814",
+                      "sector": {
+                          "name": "Suroccidente"
+                      },
+                      "area": 98,
+                      "forSale": "N",
+                      "extraFeatures": [
+                          "conCalefaccion",
+                          "conCocinaIntegral_o",
+                          "conZonaLavanderia"
+                      ],
+                      "forRent": "N",
+                      "categoryType": null,
+                      "neighborhood": {
+                          "commonName": "Belen",
+                          "code": "0003-0062",
+                          "name": "SAN BERNARDO",
+                          "id": "0003-0062",
+                          "label": "SAN BERNARDO"
+                      },
+                      "region": {
+                          "code": "2",
+                          "name": "Antioquia",
+                          "id": "2",
+                          "label": "Antioquia"
+                      },
+                      "lotType": null,
+                      "status": "Usado",
+                      "amenities": {
+                          "disabilityOk": "N",
+                          "aloneOk": "N",
+                          "childrenOk": "N",
+                          "gymOk": "N",
+                          "petsOk": "N",
+                          "outdoorActivitiesOk": "N",
+                          "bikeUserOk": "N"
+                      },
+                      "city": {
+                          "code": "medellin",
+                          "name": "Medellín",
+                          "id": "3",
+                          "label": "Medellín"
+                      },
+                      "checkInDate": "2024-05-17T21:28:13.000Z",
+                      "propertyType": {
+                          "code": "1",
+                          "name": "Apartamento",
+                          "id": "1",
+                          "label": "Apartamento"
+                      },
+                      "@version": "1",
+                      "rentPrice": null,
+                      "comments": "Apartamento en venta en MEDELLIN - ZONA 3 OCCIDENTE MEDELLIN - NOROCCIDENTE Belen - Estadio Código 28948\r\n¡Bienvenido a tu nuevo hogar en el tranquilo barrio Belén! Este encantador apartamento en venta, situado en el primer piso, te ofrece una oportunidad única para vivir con comodidad y estilo.\r\nCon una cocina integral que añade modernidad y funcionalidad, y un suelo de baldosa que proporciona frescura y practicidad, este apartamento de estrato 4 destaca por su elegancia y practicidad.\r\nDisfruta de una generosa área de aproximadamente 98 metros cuadrados distribuidos en 3 alcobas y 2 baños, brindándote el espacio perfecto para crear recuerdos inolvidables. La presencia de un calentador de gas asegura confort en cada rincón, y la zona de ropas equipada con red de gas facilita tus tareas diarias.\r\nParqueadero pivado y Cuarto util.\r\nPero lo que hace que este apartamento sea verdaderamente especial es su PATIO SUPER AMPLIO. Imagina las posibilidades de crear tu propio oasis a",
+                      "salePrice": 350000000,
+                      "isPublished": "Y",
+                      "metroId": "2895-M4961814",
+                      "url": "/inmueble/venta-apartamento-medellin-san-bernardo-3-habitaciones-5-banos/2895-M4961814",
+                      "stratum": 4,
+                      "multimedia": {
+                          "images": {
+                              "count": 17,
+                              "files": [
+                                  "2895-M4961814_15",
+                                  "2895-M4961814_16",
+                                  "2895-M4961814_17",
+                                  "2895-M4961814_18",
+                                  "2895-M4961814_19",
+                                  "2895-M4961814_20",
+                                  "2895-M4961814_21",
+                                  "2895-M4961814_22",
+                                  "2895-M4961814_23",
+                                  "2895-M4961814_24",
+                                  "2895-M4961814_25",
+                                  "2895-M4961814_26",
+                                  "2895-M4961814_27",
+                                  "2895-M4961814_28",
+                                  "2895-M4961814_29",
+                                  "2895-M4961814_30",
+                                  "2895-M4961814_31"
+                              ],
+                              "mainFile": "2895-M4961814_15"
+                          }
+                      },
+                      "@timestamp": "2025-09-04T13:05:47.725414361Z",
+                      "bathroomsNumber": 5,
+                      "rentPriceRangeLabel": "N/A",
+                      "storageType": null,
+                      "location": {
+                          "lon": -75.5917333,
+                          "lat": 6.2251392
+                      },
+                      "publishedDate": "2025-08-14T03:10:09.000Z",
+                      "builtArea": 98,
+                      "businessType": {
+                          "code": "1",
+                          "name": "venta",
+                          "id": "1",
+                          "label": "venta"
+                      },
+                      "notificationCode": null,
+                      "offerorType": "Otro",
+                      "parkingNumber": 0
+                  },
+                  {
+                      "country": {
+                          "code": "1",
+                          "name": "Colombia",
+                          "id": "1",
+                          "label": "Colombia"
+                      },
+                      "agent": null,
+                      "roomsNumber": 5,
+                      "areaRangeLabel": "101 a 200",
+                      "builtTime": {
+                          "name": "Entre 10 y 20 años",
+                          "id": null,
+                          "label": "Entre 10 y 20 años"
+                      },
+                      "updatedDate": "2025-09-04T13:01:49.000Z",
+                      "salePriceRangeLabel": "300'000.001 a 400'000.000",
+                      "offeror": {
+                          "name": "GRUPO EMPRESARIAL MONOPOLIO INMOBILIARIO",
+                          "type": "RealEstate"
+                      },
+                      "features": [
+                          "area:157",
+                          "areaConstruida:157",
+                          "areaLote:157",
+                          "banosAuxiliar:S",
+                          "cercaColegioUniversidad:S",
+                          "cercaTransportePublico:S",
+                          "conBanoServicio_o:S",
+                          "conCocinaIntegral_o:S",
+                          "conZonaLavanderia:S",
+                          "nroBanos:4",
+                          "nroCuartos:5",
+                          "nroGarajes:0",
+                          "nroPiso:5",
+                          "terrazaBalcon:Balcón",
+                          "tiempoConstruido:Entre 10 y 20 años",
+                          "tipoPiso:Cerámica",
+                          "zonaResidencial:S"
+                      ],
+                      "aproximatelocation": "N",
+                      "adminPrice": null,
+                      "zone": {
+                          "code": "37",
+                          "name": "Suroccidente",
+                          "id": "37",
+                          "label": "Suroccidente"
+                      },
+                      "price": 320000000,
+                      "checked": "Inmueble No Verificado",
+                      "id": "2895-M3595444",
+                      "sector": {
+                          "name": "Suroccidente"
+                      },
+                      "area": 157,
+                      "forSale": "N",
+                      "extraFeatures": [
+                          "banosAuxiliar",
+                          "cercaColegioUniversidad",
+                          "cercaTransportePublico",
+                          "conBanoServicio_o",
+                          "conCocinaIntegral_o",
+                          "conZonaLavanderia",
+                          "zonaResidencial"
+                      ],
+                      "forRent": "N",
+                      "categoryType": null,
+                      "neighborhood": {
+                          "commonName": "San Bernardo",
+                          "code": "0003-0062",
+                          "name": "SAN BERNARDO",
+                          "id": "0003-0062",
+                          "label": "SAN BERNARDO"
+                      },
+                      "region": {
+                          "code": "2",
+                          "name": "Antioquia",
+                          "id": "2",
+                          "label": "Antioquia"
+                      },
+                      "lotType": null,
+                      "status": "Usado",
+                      "amenities": {
+                          "disabilityOk": "N",
+                          "aloneOk": "N",
+                          "childrenOk": "N",
+                          "gymOk": "N",
+                          "petsOk": "N",
+                          "outdoorActivitiesOk": "N",
+                          "bikeUserOk": "N"
+                      },
+                      "city": {
+                          "code": "medellin",
+                          "name": "Medellín",
+                          "id": "3",
+                          "label": "Medellín"
+                      },
+                      "checkInDate": "2022-07-08T09:48:34.000Z",
+                      "propertyType": {
+                          "code": "2",
+                          "name": "Casa",
+                          "id": "2",
+                          "label": "Casa"
+                      },
+                      "@version": "1",
+                      "rentPrice": null,
+                      "comments": "COD.15074 \n\nCasa bifamiliar en venta, con un área de 157 metros aproximadamente por confirmar sobre escrituras, sector San Bernardo en Belén, 5° piso, estrato 3 en edificio. Aquí tenemos dos apartamentos independientes sin desenglobar, en cada uno encontramos dos baños enchapados y cabinados con muebles inferiores, tres alcobas, uno tiene tres closets, el otro solo uno, uno con balcón, el otro con terraza, ventanales en ambos, así como zona de ropas y red de gas. Pisos en cerámica, pintura en excelente estado y servicios independientes.\n\nNO INCLUYEN MOBILIARIO\n\n \n\nDescripción del sector\n\nSector residencial cercano a la Escuela Carlos Franco, Sala de juegos Lucky Net, barberías, droguerías, restaurantes, pastelerías, heladerías, Teatro Títeres y Música Carantoña, Unidad Hospitalaria Belén, avenida 80, Parque biblioteca, Mall de la 76, Colegio San Juan Bosco, excelentes vías de acceso y servicio de transporte público.\n",
+                      "salePrice": 320000000,
+                      "isPublished": "Y",
+                      "metroId": "2895-M3595444",
+                      "url": "/inmueble/venta-casa-medellin-san-bernardo-5-habitaciones-4-banos/2895-M3595444",
+                      "stratum": 3,
+                      "multimedia": {
+                          "images": {
+                              "count": 10,
+                              "files": [
+                                  "2895-M3595444_31",
+                                  "2895-M3595444_32",
+                                  "2895-M3595444_33",
+                                  "2895-M3595444_34",
+                                  "2895-M3595444_35",
+                                  "2895-M3595444_36",
+                                  "2895-M3595444_37",
+                                  "2895-M3595444_38",
+                                  "2895-M3595444_39",
+                                  "2895-M3595444_40"
+                              ],
+                              "mainFile": "2895-M3595444_31"
+                          }
+                      },
+                      "@timestamp": "2025-09-04T13:05:50.150142063Z",
+                      "bathroomsNumber": 4,
+                      "rentPriceRangeLabel": "N/A",
+                      "storageType": null,
+                      "location": {
+                          "lon": -75.5986265,
+                          "lat": 6.225975
+                      },
+                      "publishedDate": "2024-11-26T00:22:53.000Z",
+                      "builtArea": 157,
+                      "businessType": {
+                          "code": "1",
+                          "name": "venta",
+                          "id": "1",
+                          "label": "venta"
+                      },
+                      "notificationCode": null,
+                      "offerorType": "Otro",
+                      "parkingNumber": 0
+                  },
+                  {
+                      "country": {
+                          "code": "1",
+                          "name": "Colombia",
+                          "id": "1",
+                          "label": "Colombia"
+                      },
+                      "agent": null,
+                      "roomsNumber": 3,
+                      "areaRangeLabel": "61 a 100",
+                      "builtTime": {
+                          "name": "Más de 20 años",
+                          "id": null,
+                          "label": "Más de 20 años"
+                      },
+                      "updatedDate": "2025-09-04T13:01:49.000Z",
+                      "salePriceRangeLabel": "300'000.001 a 400'000.000",
+                      "offeror": {
+                          "name": "GRUPO EMPRESARIAL MONOPOLIO INMOBILIARIO",
+                          "type": "RealEstate"
+                      },
+                      "features": [
+                          "area:84.00",
+                          "areaConstruida:84.00",
+                          "areaLote:84.00",
+                          "conCocinaIntegral_o:S",
+                          "conZonaLavanderia:S",
+                          "conZonasVerdes:S",
+                          "nroBanos:2",
+                          "nroCuartos:3",
+                          "nroGarajes:0",
+                          "nroPiso:1",
+                          "porteria:S",
+                          "terrazaBalcon:Balcón",
+                          "tiempoConstruido:Más de 20 años"
+                      ],
+                      "aproximatelocation": "N",
+                      "adminPrice": 334000,
+                      "zone": {
+                          "code": "37",
+                          "name": "Suroccidente",
+                          "id": "37",
+                          "label": "Suroccidente"
+                      },
+                      "price": 380000000,
+                      "checked": "Inmueble No Verificado",
+                      "id": "2895-M4914613",
+                      "sector": {
+                          "name": "Suroccidente"
+                      },
+                      "area": 84,
+                      "forSale": "N",
+                      "extraFeatures": [
+                          "conCocinaIntegral_o",
+                          "conZonaLavanderia",
+                          "conZonasVerdes",
+                          "porteria"
+                      ],
+                      "forRent": "N",
+                      "categoryType": null,
+                      "neighborhood": {
+                          "commonName": "Belen",
+                          "code": "0003-0078",
+                          "name": "LAS PLAYAS",
+                          "id": "0003-0078",
+                          "label": "LAS PLAYAS"
+                      },
+                      "region": {
+                          "code": "2",
+                          "name": "Antioquia",
+                          "id": "2",
+                          "label": "Antioquia"
+                      },
+                      "lotType": null,
+                      "status": "Usado",
+                      "amenities": {
+                          "disabilityOk": "N",
+                          "aloneOk": "N",
+                          "childrenOk": "N",
+                          "gymOk": "N",
+                          "petsOk": "N",
+                          "outdoorActivitiesOk": "N",
+                          "bikeUserOk": "N"
+                      },
+                      "city": {
+                          "code": "medellin",
+                          "name": "Medellín",
+                          "id": "3",
+                          "label": "Medellín"
+                      },
+                      "checkInDate": "2024-04-22T13:15:37.000Z",
+                      "propertyType": {
+                          "code": "2",
+                          "name": "Casa",
+                          "id": "2",
+                          "label": "Casa"
+                      },
+                      "@version": "1",
+                      "rentPrice": null,
+                      "comments": "AMPLIA CASA UNIFAMILIAR EN VENTA - SECTOR BELEN COD 29384\n\n\"¡Bienvenido al corazón de Belén, donde encontrarás tu nuevo hogar esperándote con los brazos abiertos! Esta encantadora casa unifamiliar, ubicada en el primer piso, es una verdadera joya que no puedes dejar pasar. Desde el momento en que pones un pie dentro, te sentirás cautivado por su encanto y comodidad.\n\nLa cocina integral es el corazón de esta casa, despertando tus sentidos con su diseño cuidadosamente pensado y revestimiento en cerámica, que no solo añade un toque de elegancia, sino que también ofrece fácil mantenimiento para tu conveniencia. Además, el estrato 3 garantiza no solo comodidad, sino también una gama de servicios accesibles para facilitar tu vida diaria.Con aproximadamente 84 metros cuadrados de espacio bien distribuido, esta casa te ofrece todo lo que necesitas y más. Sus 3 acogedoras alcobas son el refugio perfecto para la privacidad y el confort, mientras que los 2 baños completos asegur",
+                      "salePrice": 380000000,
+                      "isPublished": "Y",
+                      "metroId": "2895-M4914613",
+                      "url": "/inmueble/venta-casa-medellin-las-playas-3-habitaciones-2-banos/2895-M4914613",
+                      "stratum": 3,
+                      "multimedia": {
+                          "images": {
+                              "count": 13,
+                              "files": [
+                                  "2895-M4914613_99",
+                                  "2895-M4914613_100",
+                                  "2895-M4914613_101",
+                                  "2895-M4914613_102",
+                                  "2895-M4914613_103",
+                                  "2895-M4914613_104",
+                                  "2895-M4914613_105",
+                                  "2895-M4914613_106",
+                                  "2895-M4914613_107",
+                                  "2895-M4914613_108",
+                                  "2895-M4914613_109",
+                                  "2895-M4914613_110",
+                                  "2895-M4914613_111"
+                              ],
+                              "mainFile": "2895-M4914613_99"
+                          }
+                      },
+                      "@timestamp": "2025-09-04T13:05:55.506929586Z",
+                      "bathroomsNumber": 2,
+                      "rentPriceRangeLabel": "N/A",
+                      "storageType": null,
+                      "location": {
+                          "lon": -75.5953015,
+                          "lat": 6.2206746
+                      },
+                      "publishedDate": "2024-11-26T00:22:53.000Z",
+                      "builtArea": 84,
+                      "businessType": {
+                          "code": "1",
+                          "name": "venta",
+                          "id": "1",
+                          "label": "venta"
+                      },
+                      "notificationCode": null,
+                      "offerorType": "Otro",
+                      "parkingNumber": 0
+                  },
+                  {
+                      "country": {
+                          "code": "1",
+                          "name": "Colombia",
+                          "id": "1",
+                          "label": "Colombia"
+                      },
+                      "agent": null,
+                      "roomsNumber": 4,
+                      "areaRangeLabel": "101 a 200",
+                      "builtTime": {
+                          "name": "Más de 20 años",
+                          "id": null,
+                          "label": "Más de 20 años"
+                      },
+                      "updatedDate": "2025-09-04T13:20:46.000Z",
+                      "salePriceRangeLabel": "400'000.001 a 500'000.000",
+                      "offeror": {
+                          "name": "VIVA INMOBILIARIA",
+                          "type": "RealEstate"
+                      },
+                      "features": [
+                          "area:114",
+                          "areaConstruida:114",
+                          "cercaColegioUniversidad:S",
+                          "conZonaLavanderia:S",
+                          "nroBanos:2",
+                          "nroCuartos:4",
+                          "nroGarajes:0",
+                          "nroPiso:2",
+                          "terrazaBalcon:Balcón",
+                          "tiempoConstruido:Más de 20 años"
+                      ],
+                      "aproximatelocation": null,
+                      "adminPrice": null,
+                      "zone": {
+                          "code": "37",
+                          "name": "Suroccidente",
+                          "id": "37",
+                          "label": "Suroccidente"
+                      },
+                      "price": 480000000,
+                      "checked": "Inmueble No Verificado",
+                      "id": "16974-M6030530",
+                      "sector": {
+                          "name": "Suroccidente"
+                      },
+                      "area": 114,
+                      "forSale": "N",
+                      "extraFeatures": [
+                          "cercaColegioUniversidad",
+                          "conZonaLavanderia"
+                      ],
+                      "forRent": "N",
+                      "categoryType": null,
+                      "neighborhood": {
+                          "commonName": "Belen Las Playas",
+                          "code": "0003-0078",
+                          "name": "LAS PLAYAS",
+                          "id": "0003-0078",
+                          "label": "LAS PLAYAS"
+                      },
+                      "region": {
+                          "code": "2",
+                          "name": "Antioquia",
+                          "id": "2",
+                          "label": "Antioquia"
+                      },
+                      "lotType": null,
+                      "status": "Usado",
+                      "amenities": {
+                          "disabilityOk": "N",
+                          "aloneOk": "N",
+                          "childrenOk": "N",
+                          "gymOk": "N",
+                          "petsOk": "N",
+                          "outdoorActivitiesOk": "N",
+                          "bikeUserOk": "N"
+                      },
+                      "city": {
+                          "code": "medellin",
+                          "name": "Medellín",
+                          "id": "3",
+                          "label": "Medellín"
+                      },
+                      "checkInDate": "2025-09-03T23:02:08.000Z",
+                      "propertyType": {
+                          "code": "1",
+                          "name": "Apartamento",
+                          "id": "1",
+                          "label": "Apartamento"
+                      },
+                      "@version": "1",
+                      "rentPrice": null,
+                      "comments": "Área 114 m², 4 alcobas, 2 baños cabinados, sala comedor, cocina integral, balcón, 2 patios, zona de ropas, red de gas\n\nExcelentes rutas de transporte, al frente de la entrada principal del aeroparque Juan Pablo ll, cerca de la clinica Las Americas y centro comercial Arkadia, muy iluminada y con buena ventilación.\n",
+                      "salePrice": 480000000,
+                      "isPublished": "Y",
+                      "metroId": "16974-M6030530",
+                      "url": "/inmueble/venta-apartamento-medellin-las-playas-4-habitaciones-2-banos/16974-M6030530",
+                      "stratum": 3,
+                      "multimedia": {
+                          "images": {
+                              "count": 19,
+                              "files": [
+                                  "16974-M6030530_1",
+                                  "16974-M6030530_2",
+                                  "16974-M6030530_3",
+                                  "16974-M6030530_4",
+                                  "16974-M6030530_5",
+                                  "16974-M6030530_6",
+                                  "16974-M6030530_7",
+                                  "16974-M6030530_8",
+                                  "16974-M6030530_9",
+                                  "16974-M6030530_10",
+                                  "16974-M6030530_11",
+                                  "16974-M6030530_12",
+                                  "16974-M6030530_13",
+                                  "16974-M6030530_14",
+                                  "16974-M6030530_15",
+                                  "16974-M6030530_16",
+                                  "16974-M6030530_17",
+                                  "16974-M6030530_18",
+                                  "16974-M6030530_19"
+                              ],
+                              "mainFile": "16974-M6030530_1"
+                          }
+                      },
+                      "@timestamp": "2025-09-04T13:26:37.739501973Z",
+                      "bathroomsNumber": 2,
+                      "rentPriceRangeLabel": "N/A",
+                      "storageType": null,
+                      "location": {
+                          "lon": -75.59345961,
+                          "lat": 6.2208555
+                      },
+                      "publishedDate": "2025-09-03T23:02:08.000Z",
+                      "builtArea": 114,
+                      "businessType": {
+                          "code": "1",
+                          "name": "venta",
+                          "id": "1",
+                          "label": "venta"
+                      },
+                      "notificationCode": null,
+                      "offerorType": "Inmobiliaria",
+                      "parkingNumber": 0
+                  },
+                  {
+                      "country": {
+                          "code": "1",
+                          "name": "Colombia",
+                          "id": "1",
+                          "label": "Colombia"
+                      },
+                      "agent": "INMOBILIARIA LA VILLA",
+                      "roomsNumber": 3,
+                      "areaRangeLabel": "101 a 200",
+                      "builtTime": {
+                          "name": "Más de 20 años",
+                          "id": null,
+                          "label": "Más de 20 años"
+                      },
+                      "updatedDate": "2025-09-04T14:31:19.000Z",
+                      "salePriceRangeLabel": "500'000.001 a 650'000.000",
+                      "offeror": {
+                          "name": "INMOBILIARIA Y VALORES LA VILLA S.A.S",
+                          "type": "RealEstate"
+                      },
+                      "features": [
+                          "area:108",
+                          "areaConstruida:90",
+                          "banosAuxiliar:S",
+                          "cercaTransportePublico:S",
+                          "conBanoServicio_o:S",
+                          "nroBanos:2",
+                          "nroCuartos:3",
+                          "nroGarajes:0",
+                          "nroPiso:1",
+                          "tiempoConstruido:Más de 20 años",
+                          "zonaResidencial:S"
+                      ],
+                      "aproximatelocation": "N",
+                      "adminPrice": null,
+                      "zone": {
+                          "code": "37",
+                          "name": "Suroccidente",
+                          "id": "37",
+                          "label": "Suroccidente"
+                      },
+                      "price": 650000000,
+                      "checked": "Inmueble No Verificado",
+                      "id": "15317-M5036679",
+                      "sector": {
+                          "name": "Suroccidente"
+                      },
+                      "area": 108,
+                      "forSale": "N",
+                      "extraFeatures": [
+                          "banosAuxiliar",
+                          "cercaTransportePublico",
+                          "conBanoServicio_o",
+                          "zonaResidencial"
+                      ],
+                      "forRent": "N",
+                      "categoryType": null,
+                      "neighborhood": {
+                          "commonName": "Belen San Bernardo",
+                          "code": "0003-0062",
+                          "name": "SAN BERNARDO",
+                          "id": "0003-0062",
+                          "label": "SAN BERNARDO"
+                      },
+                      "region": {
+                          "code": "2",
+                          "name": "Antioquia",
+                          "id": "2",
+                          "label": "Antioquia"
+                      },
+                      "lotType": null,
+                      "status": "Usado",
+                      "amenities": {
+                          "disabilityOk": "N",
+                          "aloneOk": "N",
+                          "childrenOk": "N",
+                          "gymOk": "N",
+                          "petsOk": "N",
+                          "outdoorActivitiesOk": "N",
+                          "bikeUserOk": "N"
+                      },
+                      "city": {
+                          "code": "medellin",
+                          "name": "Medellín",
+                          "id": "3",
+                          "label": "Medellín"
+                      },
+                      "checkInDate": "2024-07-02T10:07:34.000Z",
+                      "propertyType": {
+                          "code": "1",
+                          "name": "Apartamento",
+                          "id": "1",
+                          "label": "Apartamento"
+                      },
+                      "@version": "1",
+                      "rentPrice": null,
+                      "comments": "Area total 108 mts, area construida 90 mts, 3 alcobas, 2 baños, sala comedor, cocina semi integral, zona de ropas,2 patios, primer piso\n",
+                      "salePrice": 650000000,
+                      "isPublished": "Y",
+                      "metroId": "15317-M5036679",
+                      "url": "/inmueble/venta-apartamento-medellin-san-bernardo-3-habitaciones-2-banos/15317-M5036679",
+                      "stratum": 3,
+                      "multimedia": {
+                          "images": {
+                              "count": 7,
+                              "files": [
+                                  "15317-M5036679_8",
+                                  "15317-M5036679_9",
+                                  "15317-M5036679_10",
+                                  "15317-M5036679_11",
+                                  "15317-M5036679_12",
+                                  "15317-M5036679_13",
+                                  "15317-M5036679_14"
+                              ],
+                              "mainFile": "15317-M5036679_8"
+                          }
+                      },
+                      "@timestamp": "2025-09-04T14:37:51.222239883Z",
+                      "bathroomsNumber": 2,
+                      "rentPriceRangeLabel": "N/A",
+                      "storageType": null,
+                      "location": {
+                          "lon": -75.5970126,
+                          "lat": 6.2234997
+                      },
+                      "publishedDate": "2025-08-12T03:10:09.000Z",
+                      "builtArea": 90,
+                      "businessType": {
+                          "code": "1",
+                          "name": "venta",
+                          "id": "1",
+                          "label": "venta"
+                      },
+                      "notificationCode": null,
+                      "offerorType": "Inmobiliaria",
+                      "parkingNumber": 0
+                  },
+                  {
+                      "country": {
+                          "code": "1",
+                          "name": "Colombia",
+                          "id": "1",
+                          "label": "Colombia"
+                      },
+                      "agent": "INMOBILIARIA Y VALOR Venta",
+                      "roomsNumber": 4,
+                      "areaRangeLabel": "101 a 200",
+                      "builtTime": {
+                          "name": "Entre 0 y 5 años",
+                          "id": null,
+                          "label": "Entre 0 y 5 años"
+                      },
+                      "updatedDate": "2025-09-04T14:31:19.000Z",
+                      "salePriceRangeLabel": "500'000.001 a 650'000.000",
+                      "offeror": {
+                          "name": "INMOBILIARIA Y VALORES LA VILLA S.A.S",
+                          "type": "RealEstate"
+                      },
+                      "features": [
+                          "area:130",
+                          "areaConstruida:130",
+                          "cercaCentroComercial:S",
+                          "cercaTransportePublico:S",
+                          "conCocinaIntegral_o:S",
+                          "instalacionGas:Ninguno",
+                          "nroBanos:3",
+                          "nroClosets:2",
+                          "nroCuartos:4",
+                          "nroGarajes:0",
+                          "nroPiso:1",
+                          "terrazaBalcon:Balcón",
+                          "tiempoConstruido:Entre 0 y 5 años",
+                          "tipoComedor:Sala Comedor",
+                          "zonaResidencial:S"
+                      ],
+                      "aproximatelocation": "N",
+                      "adminPrice": null,
+                      "zone": {
+                          "code": "37",
+                          "name": "Suroccidente",
+                          "id": "37",
+                          "label": "Suroccidente"
+                      },
+                      "price": 600000000,
+                      "checked": "Inmueble No Verificado",
+                      "id": "15317-M5777117",
+                      "sector": {
+                          "name": "Suroccidente"
+                      },
+                      "area": 130,
+                      "forSale": "N",
+                      "extraFeatures": [
+                          "cercaCentroComercial",
+                          "cercaTransportePublico",
+                          "conCocinaIntegral_o",
+                          "zonaResidencial"
+                      ],
+                      "forRent": "N",
+                      "categoryType": null,
+                      "neighborhood": {
+                          "commonName": "Belen San Bernardo",
+                          "code": "0003-0062",
+                          "name": "SAN BERNARDO",
+                          "id": "0003-0062",
+                          "label": "SAN BERNARDO"
+                      },
+                      "region": {
+                          "code": "2",
+                          "name": "Antioquia",
+                          "id": "2",
+                          "label": "Antioquia"
+                      },
+                      "lotType": null,
+                      "status": "Usado",
+                      "amenities": {
+                          "disabilityOk": "N",
+                          "aloneOk": "N",
+                          "childrenOk": "N",
+                          "gymOk": "N",
+                          "petsOk": "N",
+                          "outdoorActivitiesOk": "N",
+                          "bikeUserOk": "N"
+                      },
+                      "city": {
+                          "code": "medellin",
+                          "name": "Medellín",
+                          "id": "3",
+                          "label": "Medellín"
+                      },
+                      "checkInDate": "2025-05-27T12:21:05.000Z",
+                      "propertyType": {
+                          "code": "1",
+                          "name": "Apartamento",
+                          "id": "1",
+                          "label": "Apartamento"
+                      },
+                      "@version": "1",
+                      "rentPrice": null,
+                      "comments": "Área 130 mts, 4 alcobas, 3 baños, sala, comedor, cocina integral, zona de ropas, patio, balcon, 1er y 2do piso, propiedad horizontal.",
+                      "salePrice": 600000000,
+                      "isPublished": "Y",
+                      "metroId": "15317-M5777117",
+                      "url": "/inmueble/venta-apartamento-medellin-san-bernardo-4-habitaciones-3-banos/15317-M5777117",
+                      "stratum": 3,
+                      "multimedia": {
+                          "images": {
+                              "count": 60,
+                              "files": [
+                                  "15317-M5777117_1",
+                                  "15317-M5777117_1",
+                                  "15317-M5777117_1",
+                                  "15317-M5777117_2",
+                                  "15317-M5777117_2",
+                                  "15317-M5777117_2",
+                                  "15317-M5777117_3",
+                                  "15317-M5777117_3",
+                                  "15317-M5777117_3",
+                                  "15317-M5777117_4",
+                                  "15317-M5777117_4",
+                                  "15317-M5777117_4",
+                                  "15317-M5777117_5",
+                                  "15317-M5777117_5",
+                                  "15317-M5777117_5",
+                                  "15317-M5777117_6",
+                                  "15317-M5777117_6",
+                                  "15317-M5777117_6",
+                                  "15317-M5777117_7",
+                                  "15317-M5777117_7",
+                                  "15317-M5777117_7",
+                                  "15317-M5777117_8",
+                                  "15317-M5777117_8",
+                                  "15317-M5777117_8",
+                                  "15317-M5777117_9",
+                                  "15317-M5777117_9",
+                                  "15317-M5777117_9",
+                                  "15317-M5777117_10",
+                                  "15317-M5777117_10",
+                                  "15317-M5777117_10",
+                                  "15317-M5777117_11",
+                                  "15317-M5777117_11",
+                                  "15317-M5777117_11",
+                                  "15317-M5777117_12",
+                                  "15317-M5777117_12",
+                                  "15317-M5777117_12",
+                                  "15317-M5777117_13",
+                                  "15317-M5777117_13",
+                                  "15317-M5777117_13",
+                                  "15317-M5777117_14",
+                                  "15317-M5777117_14",
+                                  "15317-M5777117_14",
+                                  "15317-M5777117_15",
+                                  "15317-M5777117_15",
+                                  "15317-M5777117_15",
+                                  "15317-M5777117_16",
+                                  "15317-M5777117_16",
+                                  "15317-M5777117_16",
+                                  "15317-M5777117_17",
+                                  "15317-M5777117_17",
+                                  "15317-M5777117_17",
+                                  "15317-M5777117_18",
+                                  "15317-M5777117_18",
+                                  "15317-M5777117_18",
+                                  "15317-M5777117_19",
+                                  "15317-M5777117_19",
+                                  "15317-M5777117_19",
+                                  "15317-M5777117_20",
+                                  "15317-M5777117_20",
+                                  "15317-M5777117_20"
+                              ],
+                              "mainFile": "15317-M5777117_1"
+                          }
+                      },
+                      "@timestamp": "2025-09-04T14:37:50.581205679Z",
+                      "bathroomsNumber": 3,
+                      "rentPriceRangeLabel": "N/A",
+                      "storageType": null,
+                      "location": {
+                          "lon": -75.59455359,
+                          "lat": 6.22368229
+                      },
+                      "publishedDate": "2025-08-22T03:10:09.000Z",
+                      "builtArea": 130,
+                      "businessType": {
+                          "code": "1",
+                          "name": "venta",
+                          "id": "1",
+                          "label": "venta"
+                      },
+                      "notificationCode": null,
+                      "offerorType": "Inmobiliaria",
+                      "parkingNumber": 0
+                  },
+                  {
+                      "country": {
+                          "code": "1",
+                          "name": "Colombia",
+                          "id": "1",
+                          "label": "Colombia"
+                      },
+                      "agent": null,
+                      "roomsNumber": 5,
+                      "areaRangeLabel": "101 a 200",
+                      "builtTime": {
+                          "name": "Más de 20 años",
+                          "id": null,
+                          "label": "Más de 20 años"
+                      },
+                      "updatedDate": "2025-09-04T13:08:42.000Z",
+                      "salePriceRangeLabel": "500'000.001 a 650'000.000",
+                      "offeror": {
+                          "name": "CASA VIDA INMOBILIARIA",
+                          "type": "RealEstate"
+                      },
+                      "features": [
+                          "area:147",
+                          "areaConstruida:147",
+                          "banosAuxiliar:S",
+                          "cercaColegioUniversidad:S",
+                          "cercaParque:S",
+                          "conBanoServicio_o:S",
+                          "conCalefaccion:S",
+                          "conCocinaIntegral_o:S",
+                          "conZonaLavanderia:S",
+                          "nroBanos:2",
+                          "nroCuartos:5",
+                          "nroGarajes:0",
+                          "nroPiso:2",
+                          "terrazaBalcon:Balcón",
+                          "tiempoConstruido:Más de 20 años",
+                          "tipoDeposito:1",
+                          "zonaResidencial:S"
+                      ],
+                      "aproximatelocation": "N",
+                      "adminPrice": null,
+                      "zone": {
+                          "code": "37",
+                          "name": "Suroccidente",
+                          "id": "37",
+                          "label": "Suroccidente"
+                      },
+                      "price": 560000000,
+                      "checked": "Inmueble No Verificado",
+                      "id": "17183-M5362171",
+                      "sector": {
+                          "name": "Suroccidente"
+                      },
+                      "area": 147,
+                      "forSale": "N",
+                      "extraFeatures": [
+                          "banosAuxiliar",
+                          "cercaColegioUniversidad",
+                          "cercaParque",
+                          "conBanoServicio_o",
+                          "conCalefaccion",
+                          "conCocinaIntegral_o",
+                          "conZonaLavanderia",
+                          "zonaResidencial"
+                      ],
+                      "forRent": "N",
+                      "categoryType": null,
+                      "neighborhood": {
+                          "commonName": "Belen San Bernado",
+                          "code": "0003-0062",
+                          "name": "SAN BERNARDO",
+                          "id": "0003-0062",
+                          "label": "SAN BERNARDO"
+                      },
+                      "region": {
+                          "code": "2",
+                          "name": "Antioquia",
+                          "id": "2",
+                          "label": "Antioquia"
+                      },
+                      "lotType": null,
+                      "status": "Usado",
+                      "amenities": {
+                          "disabilityOk": "N",
+                          "aloneOk": "N",
+                          "childrenOk": "N",
+                          "gymOk": "N",
+                          "petsOk": "N",
+                          "outdoorActivitiesOk": "N",
+                          "bikeUserOk": "N"
+                      },
+                      "city": {
+                          "code": "medellin",
+                          "name": "Medellín",
+                          "id": "3",
+                          "label": "Medellín"
+                      },
+                      "checkInDate": "2024-10-29T12:21:02.000Z",
+                      "propertyType": {
+                          "code": "1",
+                          "name": "Apartamento",
+                          "id": "1",
+                          "label": "Apartamento"
+                      },
+                      "@version": "1",
+                      "rentPrice": null,
+                      "comments": "Área 147 m2, 5 alcobas, principal con baño, 2 baños cabinados, cocina integral, zona de ropas, balcón, 2 patios.\n\nBuena ruta de transporte, supermercados, cerca a la 76, cerca, biblioteca publica de Belen,  cerca a la Fundacion Cultivos de amor, cerca a la 80, piso 2 predial 110.000 trimestral.\n",
+                      "salePrice": 560000000,
+                      "isPublished": "Y",
+                      "metroId": "17183-M5362171",
+                      "url": "/inmueble/venta-apartamento-medellin-san-bernardo-5-habitaciones-2-banos/17183-M5362171",
+                      "stratum": 3,
+                      "multimedia": {
+                          "images": {
+                              "count": 14,
+                              "files": [
+                                  "17183-M5362171_85",
+                                  "17183-M5362171_86",
+                                  "17183-M5362171_87",
+                                  "17183-M5362171_88",
+                                  "17183-M5362171_89",
+                                  "17183-M5362171_90",
+                                  "17183-M5362171_91",
+                                  "17183-M5362171_92",
+                                  "17183-M5362171_93",
+                                  "17183-M5362171_94",
+                                  "17183-M5362171_95",
+                                  "17183-M5362171_96",
+                                  "17183-M5362171_97",
+                                  "17183-M5362171_98"
+                              ],
+                              "mainFile": "17183-M5362171_85"
+                          }
+                      },
+                      "@timestamp": "2025-09-04T13:11:53.134420132Z",
+                      "bathroomsNumber": 2,
+                      "rentPriceRangeLabel": "N/A",
+                      "storageType": null,
+                      "location": {
+                          "lon": -75.5958806,
+                          "lat": 6.2241603
+                      },
+                      "publishedDate": "2025-08-24T03:10:09.000Z",
+                      "builtArea": 147,
+                      "businessType": {
+                          "code": "1",
+                          "name": "venta",
+                          "id": "1",
+                          "label": "venta"
+                      },
+                      "notificationCode": null,
+                      "offerorType": "Inmobiliaria",
+                      "parkingNumber": 0
+                  },
+                  {
+                      "country": {
+                          "code": "1",
+                          "name": "Colombia",
+                          "id": "1",
+                          "label": "Colombia"
+                      },
+                      "agent": null,
+                      "roomsNumber": 5,
+                      "areaRangeLabel": "201 a 300",
+                      "builtTime": {
+                          "name": "Entre 5 y 10 años",
+                          "id": null,
+                          "label": "Entre 5 y 10 años"
+                      },
+                      "updatedDate": "2025-09-04T14:55:12.000Z",
+                      "salePriceRangeLabel": "1.000'000.001 o m¿s millones",
+                      "offeror": {
+                          "name": "HOMES INMOBILIARIA",
+                          "type": "RealEstate"
+                      },
+                      "features": [
+                          "area:268",
+                          "areaConstruida:268",
+                          "cercaColegioUniversidad:S",
+                          "cercaTransportePublico:S",
+                          "conCocinaIntegral_o:S",
+                          "conPisoMadera_o:S",
+                          "negociarPrecio:S",
+                          "nroBanos:4",
+                          "nroCuartos:5",
+                          "nroGarajes:1",
+                          "nroPiso:2",
+                          "tiempoConstruido:Entre 5 y 10 años",
+                          "tipoCasa:Tradicional"
+                      ],
+                      "aproximatelocation": "N",
+                      "adminPrice": null,
+                      "zone": {
+                          "code": "37",
+                          "name": "Suroccidente",
+                          "id": "37",
+                          "label": "Suroccidente"
+                      },
+                      "price": 1100000000,
+                      "checked": "Inmueble No Verificado",
+                      "id": "19797-M5703038",
+                      "sector": {
+                          "name": "Suroccidente"
+                      },
+                      "area": 268,
+                      "forSale": "N",
+                      "extraFeatures": [
+                          "cercaColegioUniversidad",
+                          "cercaTransportePublico",
+                          "conCocinaIntegral_o",
+                          "conPisoMadera_o",
+                          "negociarPrecio"
+                      ],
+                      "forRent": "N",
+                      "categoryType": null,
+                      "neighborhood": {
+                          "commonName": "Belen",
+                          "code": "0003-0062",
+                          "name": "SAN BERNARDO",
+                          "id": "0003-0062",
+                          "label": "SAN BERNARDO"
+                      },
+                      "region": {
+                          "code": "2",
+                          "name": "Antioquia",
+                          "id": "2",
+                          "label": "Antioquia"
+                      },
+                      "lotType": null,
+                      "status": "Usado",
+                      "amenities": {
+                          "disabilityOk": "N",
+                          "aloneOk": "N",
+                          "childrenOk": "N",
+                          "gymOk": "N",
+                          "petsOk": "N",
+                          "outdoorActivitiesOk": "N",
+                          "bikeUserOk": "N"
+                      },
+                      "city": {
+                          "code": "medellin",
+                          "name": "Medellín",
+                          "id": "3",
+                          "label": "Medellín"
+                      },
+                      "checkInDate": "2025-04-16T08:57:40.000Z",
+                      "propertyType": {
+                          "code": "2",
+                          "name": "Casa",
+                          "id": "2",
+                          "label": "Casa"
+                      },
+                      "@version": "1",
+                      "rentPrice": null,
+                      "comments": "CASA EN ZONA PLANA DE BELÉN SAN BERNARDO CON POSIBILIDADES DE AMPLIACIÓN, IDEAL PARA BODEGA O NEGOCIO A 3 CUADRAS DE LA 70 Y A 3 CUADRAS DE LA 76.\r\n\r\nÁrea primer nivel 134.25 m² + Área Libre Solar 37 m².\r\nÁrea segundo nivel 134,25 m².\r\nÁrea terraza 134,25 m².\r\n6 metros de frente x 30.1 metros de largo.\r\nPuerta garaje de todo el ancho del edificio.\r\n6 alcobas + 5 closet.\r\n4 baños.\r\n2 salas + 2 comedores.\r\n3 patios + solar.\r\nBalcón.\r\nGas domiciliario.\r\nPor valorización, el sector cuenta con nuevos desarrollos inmobiliarios de nuevos edificios e infraestructura pública.\r\nBuen servicio de transporte público. Rutas de buses que comunican con el Centro de Medellín y rutas de buses del integrados al sistema Metro.\r\n\r\nLugares cercanos\r\nÉxito Vecino Belén.\r\nAeroparque Juan Pablo II.\r\nParque de Belén.",
+                      "salePrice": 1100000000,
+                      "isPublished": "Y",
+                      "metroId": "19797-M5703038",
+                      "url": "/inmueble/venta-casa-medellin-san-bernardo-5-habitaciones-4-banos-1-garajes/19797-M5703038",
+                      "stratum": 3,
+                      "multimedia": {
+                          "images": {
+                              "count": 20,
+                              "files": [
+                                  "19797-M5703038_21",
+                                  "19797-M5703038_22",
+                                  "19797-M5703038_23",
+                                  "19797-M5703038_24",
+                                  "19797-M5703038_25",
+                                  "19797-M5703038_26",
+                                  "19797-M5703038_27",
+                                  "19797-M5703038_28",
+                                  "19797-M5703038_29",
+                                  "19797-M5703038_30",
+                                  "19797-M5703038_31",
+                                  "19797-M5703038_32",
+                                  "19797-M5703038_33",
+                                  "19797-M5703038_34",
+                                  "19797-M5703038_35",
+                                  "19797-M5703038_36",
+                                  "19797-M5703038_37",
+                                  "19797-M5703038_38",
+                                  "19797-M5703038_39",
+                                  "19797-M5703038_40"
+                              ],
+                              "mainFile": "19797-M5703038_21"
+                          }
+                      },
+                      "@timestamp": "2025-09-04T15:04:06.892817711Z",
+                      "bathroomsNumber": 4,
+                      "rentPriceRangeLabel": "N/A",
+                      "storageType": null,
+                      "location": {
+                          "lon": -75.59447606,
+                          "lat": 6.22665854
+                      },
+                      "publishedDate": "2025-08-01T21:30:53.000Z",
+                      "builtArea": 268,
+                      "businessType": {
+                          "code": "1",
+                          "name": "venta",
+                          "id": "1",
+                          "label": "venta"
+                      },
+                      "notificationCode": null,
+                      "offerorType": "Inmobiliaria",
+                      "parkingNumber": 1
+                  },
+                  {
+                      "country": {
+                          "code": "1",
+                          "name": "Colombia",
+                          "id": "1",
+                          "label": "Colombia"
+                      },
+                      "agent": "Aliados Inmobliliarios",
+                      "roomsNumber": 5,
+                      "areaRangeLabel": "301 a 400",
+                      "builtTime": {
+                          "name": "Entre 5 y 10 años",
+                          "id": null,
+                          "label": "Entre 5 y 10 años"
+                      },
+                      "updatedDate": "2025-09-04T14:57:06.000Z",
+                      "salePriceRangeLabel": "1.000'000.001 o m¿s millones",
+                      "offeror": {
+                          "name": "AGENCIA INMOBILIARIA",
+                          "type": "RealEstate"
+                      },
+                      "features": [
+                          "area:360",
+                          "areaConstruida:360",
+                          "banosAuxiliar:S",
+                          "cercaColegioUniversidad:S",
+                          "conCocinaIntegral_o:S",
+                          "conGarajeCubierto:S",
+                          "conPisoMadera_o:S",
+                          "conZonasVerdes:S",
+                          "negociarPrecio:S",
+                          "nroBanos:4",
+                          "nroCuartos:5",
+                          "nroGarajes:4",
+                          "nroPiso:2",
+                          "tiempoConstruido:Entre 5 y 10 años",
+                          "tipoCasa:Tradicional",
+                          "zonaResidencial:S"
+                      ],
+                      "aproximatelocation": "N",
+                      "adminPrice": null,
+                      "zone": {
+                          "code": "37",
+                          "name": "Suroccidente",
+                          "id": "37",
+                          "label": "Suroccidente"
+                      },
+                      "price": 1650000000,
+                      "checked": "Inmueble No Verificado",
+                      "id": "20033-M5786669",
+                      "sector": {
+                          "name": "Suroccidente"
+                      },
+                      "area": 360,
+                      "forSale": "N",
+                      "extraFeatures": [
+                          "banosAuxiliar",
+                          "cercaColegioUniversidad",
+                          "conCocinaIntegral_o",
+                          "conGarajeCubierto",
+                          "conPisoMadera_o",
+                          "conZonasVerdes",
+                          "negociarPrecio",
+                          "zonaResidencial"
+                      ],
+                      "forRent": "N",
+                      "categoryType": null,
+                      "neighborhood": {
+                          "commonName": "Belen",
+                          "code": "0003-0052",
+                          "name": "LA PALMA",
+                          "id": "0003-0052",
+                          "label": "LA PALMA"
+                      },
+                      "region": {
+                          "code": "2",
+                          "name": "Antioquia",
+                          "id": "2",
+                          "label": "Antioquia"
+                      },
+                      "lotType": null,
+                      "status": "Usado",
+                      "amenities": {
+                          "disabilityOk": "N",
+                          "aloneOk": "N",
+                          "childrenOk": "N",
+                          "gymOk": "N",
+                          "petsOk": "N",
+                          "outdoorActivitiesOk": "N",
+                          "bikeUserOk": "N"
+                      },
+                      "city": {
+                          "code": "medellin",
+                          "name": "Medellín",
+                          "id": "3",
+                          "label": "Medellín"
+                      },
+                      "checkInDate": "2025-06-01T17:00:46.000Z",
+                      "propertyType": {
+                          "code": "2",
+                          "name": "Casa",
+                          "id": "2",
+                          "label": "Casa"
+                      },
+                      "@version": "1",
+                      "rentPrice": null,
+                      "comments": "En el tradicional y muy residencial barrio Belén La Palma , encontramos este excelente inmueble remodelado, espacioso, acogedor, iluminado, muy bien ubicado en el sector, además esquinera, ideal como vivienda familiar, oficinas, consultorios y los usos pensados para un lugar como este. \r\n\r\n Área 360 metros cuadrados en dos niveles esquinera \r\n\r\n PRIMER PISO \r\n\r\nSala y comedor, cocina integral, zona de ropas independiente, alcoba de servicio con baño, baño auxiliar, cuarto útil y parqueadero para 4 carros en línea . Patio con fuente de agua y jardín circundante \r\n\r\n SEGUNDO PISO \r\n\r\n5 habitaciones, 2 con baño compartido Alcoba principal con baño, vestier y jacuzzi Todas las habitaciones con su closet Sala de estar, biblioteca, balcÃ³n interior y exterior Rejas de seguridad, alarma, circuito cerrado de vigilancia, el garaje con puerta eléctrica  \r\n \r\n\r\nPredial  $1.170.788 \r\nAvalúo catastral $940.836 Hipoteca $260.000.000 \r\n\r\nContáctame ! agendamos una visita.",
+                      "salePrice": 1650000000,
+                      "isPublished": "Y",
+                      "metroId": "20033-M5786669",
+                      "url": "/inmueble/venta-casa-medellin-la-palma-5-habitaciones-4-banos-4-garajes/20033-M5786669",
+                      "stratum": 5,
+                      "multimedia": {
+                          "images": {
+                              "count": 20,
+                              "files": [
+                                  "20033-M5786669_1",
+                                  "20033-M5786669_2",
+                                  "20033-M5786669_3",
+                                  "20033-M5786669_4",
+                                  "20033-M5786669_5",
+                                  "20033-M5786669_6",
+                                  "20033-M5786669_7",
+                                  "20033-M5786669_8",
+                                  "20033-M5786669_9",
+                                  "20033-M5786669_10",
+                                  "20033-M5786669_11",
+                                  "20033-M5786669_12",
+                                  "20033-M5786669_13",
+                                  "20033-M5786669_14",
+                                  "20033-M5786669_15",
+                                  "20033-M5786669_16",
+                                  "20033-M5786669_17",
+                                  "20033-M5786669_18",
+                                  "20033-M5786669_19",
+                                  "20033-M5786669_20"
+                              ],
+                              "mainFile": "20033-M5786669_1"
+                          }
+                      },
+                      "@timestamp": "2025-09-04T15:04:23.632692717Z",
+                      "bathroomsNumber": 4,
+                      "rentPriceRangeLabel": "N/A",
+                      "storageType": null,
+                      "location": {
+                          "lon": -75.60037873,
+                          "lat": 6.22780095
+                      },
+                      "publishedDate": "2025-08-27T03:10:10.000Z",
+                      "builtArea": 360,
+                      "businessType": {
+                          "code": "1",
+                          "name": "venta",
+                          "id": "1",
+                          "label": "venta"
+                      },
+                      "notificationCode": null,
+                      "offerorType": "Inmobiliaria",
+                      "parkingNumber": 4
+                  },
+                  {
+                      "country": {
+                          "code": "1",
+                          "name": "Colombia",
+                          "id": "1",
+                          "label": "Colombia"
+                      },
+                      "agent": "Aliados Inmobliliarios",
+                      "roomsNumber": 5,
+                      "areaRangeLabel": "201 a 300",
+                      "builtTime": {
+                          "name": "Entre 5 y 10 años",
+                          "id": null,
+                          "label": "Entre 5 y 10 años"
+                      },
+                      "updatedDate": "2025-09-04T14:57:06.000Z",
+                      "salePriceRangeLabel": "1.000'000.001 o m¿s millones",
+                      "offeror": {
+                          "name": "AGENCIA INMOBILIARIA",
+                          "type": "RealEstate"
+                      },
+                      "features": [
+                          "area:268",
+                          "areaConstruida:268",
+                          "cercaColegioUniversidad:S",
+                          "cercaTransportePublico:S",
+                          "conCocinaIntegral_o:S",
+                          "conPisoMadera_o:S",
+                          "negociarPrecio:S",
+                          "nroBanos:4",
+                          "nroCuartos:5",
+                          "nroGarajes:1",
+                          "nroPiso:2",
+                          "tiempoConstruido:Entre 5 y 10 años",
+                          "tipoCasa:Tradicional"
+                      ],
+                      "aproximatelocation": "N",
+                      "adminPrice": null,
+                      "zone": {
+                          "code": "37",
+                          "name": "Suroccidente",
+                          "id": "37",
+                          "label": "Suroccidente"
+                      },
+                      "price": 1100000000,
+                      "checked": "Inmueble No Verificado",
+                      "id": "20033-M5778075",
+                      "sector": {
+                          "name": "Suroccidente"
+                      },
+                      "area": 268,
+                      "forSale": "N",
+                      "extraFeatures": [
+                          "cercaColegioUniversidad",
+                          "cercaTransportePublico",
+                          "conCocinaIntegral_o",
+                          "conPisoMadera_o",
+                          "negociarPrecio"
+                      ],
+                      "forRent": "N",
+                      "categoryType": null,
+                      "neighborhood": {
+                          "commonName": "Belen",
+                          "code": "0003-0062",
+                          "name": "SAN BERNARDO",
+                          "id": "0003-0062",
+                          "label": "SAN BERNARDO"
+                      },
+                      "region": {
+                          "code": "2",
+                          "name": "Antioquia",
+                          "id": "2",
+                          "label": "Antioquia"
+                      },
+                      "lotType": null,
+                      "status": "Usado",
+                      "amenities": {
+                          "disabilityOk": "N",
+                          "aloneOk": "N",
+                          "childrenOk": "N",
+                          "gymOk": "N",
+                          "petsOk": "N",
+                          "outdoorActivitiesOk": "N",
+                          "bikeUserOk": "N"
+                      },
+                      "city": {
+                          "code": "medellin",
+                          "name": "Medellín",
+                          "id": "3",
+                          "label": "Medellín"
+                      },
+                      "checkInDate": "2025-05-27T17:58:37.000Z",
+                      "propertyType": {
+                          "code": "2",
+                          "name": "Casa",
+                          "id": "2",
+                          "label": "Casa"
+                      },
+                      "@version": "1",
+                      "rentPrice": null,
+                      "comments": "CASA EN ZONA PLANA DE BELÉN SAN BERNARDO CON POSIBILIDADES DE AMPLIACIÓN, IDEAL PARA BODEGA O NEGOCIO A 3 CUADRAS DE LA 70 Y A 3 CUADRAS DE LA 76.\r\n\r\nÁrea primer nivel 134.25 m² + Área Libre Solar 37 m².\r\nÁrea segundo nivel 134,25 m².\r\nÁrea terraza 134,25 m².\r\n6 metros de frente x 30.1 metros de largo.\r\nPuerta garaje de todo el ancho del edificio.\r\n6 alcobas + 5 closet.\r\n4 baños.\r\n2 salas + 2 comedores.\r\n3 patios + solar.\r\nBalcón.\r\nGas domiciliario.\r\nPor valorización, el sector cuenta con nuevos desarrollos inmobiliarios de nuevos edificios e infraestructura pública.\r\nBuen servicio de transporte público. Rutas de buses que comunican con el Centro de Medellín y rutas de buses del integrados al sistema Metro.\r\n\r\nLugares cercanos\r\nÉxito Vecino Belén.\r\nAeroparque Juan Pablo II.\r\nParque de Belén.",
+                      "salePrice": 1100000000,
+                      "isPublished": "Y",
+                      "metroId": "20033-M5778075",
+                      "url": "/inmueble/venta-casa-medellin-san-bernardo-5-habitaciones-4-banos-1-garajes/20033-M5778075",
+                      "stratum": 3,
+                      "multimedia": {
+                          "images": {
+                              "count": 20,
+                              "files": [
+                                  "20033-M5778075_1",
+                                  "20033-M5778075_2",
+                                  "20033-M5778075_3",
+                                  "20033-M5778075_4",
+                                  "20033-M5778075_5",
+                                  "20033-M5778075_6",
+                                  "20033-M5778075_7",
+                                  "20033-M5778075_8",
+                                  "20033-M5778075_9",
+                                  "20033-M5778075_10",
+                                  "20033-M5778075_11",
+                                  "20033-M5778075_12",
+                                  "20033-M5778075_13",
+                                  "20033-M5778075_14",
+                                  "20033-M5778075_15",
+                                  "20033-M5778075_16",
+                                  "20033-M5778075_17",
+                                  "20033-M5778075_18",
+                                  "20033-M5778075_19",
+                                  "20033-M5778075_20"
+                              ],
+                              "mainFile": "20033-M5778075_1"
+                          }
+                      },
+                      "@timestamp": "2025-09-04T15:04:24.863159946Z",
+                      "bathroomsNumber": 4,
+                      "rentPriceRangeLabel": "N/A",
+                      "storageType": null,
+                      "location": {
+                          "lon": -75.59447606,
+                          "lat": 6.22665854
+                      },
+                      "publishedDate": "2025-08-22T03:10:10.000Z",
+                      "builtArea": 268,
+                      "businessType": {
+                          "code": "1",
+                          "name": "venta",
+                          "id": "1",
+                          "label": "venta"
+                      },
+                      "notificationCode": null,
+                      "offerorType": "Inmobiliaria",
+                      "parkingNumber": 1
+                  },
+                  {
+                      "country": {
+                          "code": "1",
+                          "name": "Colombia",
+                          "id": "1",
+                          "label": "Colombia"
+                      },
+                      "agent": "Homes Provento",
+                      "roomsNumber": 5,
+                      "areaRangeLabel": "201 a 300",
+                      "builtTime": {
+                          "name": "Entre 0 y 5 años",
+                          "id": null,
+                          "label": "Entre 0 y 5 años"
+                      },
+                      "updatedDate": "2025-09-04T14:55:11.000Z",
+                      "salePriceRangeLabel": "1.000'000.001 o m¿s millones",
+                      "offeror": {
+                          "name": "HOMES INMOBILIARIA",
+                          "type": "RealEstate"
+                      },
+                      "features": [
+                          "area:220",
+                          "areaConstruida:220",
+                          "areaLote:220",
+                          "banosAuxiliar:S",
+                          "cercaColegioUniversidad:S",
+                          "cercaParque:S",
+                          "cercaTransportePublico:S",
+                          "conBanoServicio_o:S",
+                          "conCalefaccion:S",
+                          "conCanchaFutbol:S",
+                          "conCocinaIntegral_o:S",
+                          "conCuartoServicio:S",
+                          "conEstudioBiblioteca:S",
+                          "conGimnasio:S",
+                          "conHall:S",
+                          "conJardin:S",
+                          "conJardinInterior:S",
+                          "conParqueaderoVisitantes_o:S",
+                          "conSalonComunal:S",
+                          "conVigilancia-cb:S",
+                          "conVistaPanoramica:S",
+                          "conZonaLavanderia:S",
+                          "conZonaNinos:S",
+                          "conZonasVerdes:S",
+                          "despensa:S",
+                          "nroBanos:4",
+                          "nroCuartos:5",
+                          "nroGarajes:2",
+                          "terrazaBalcon:Balcón",
+                          "tiempoConstruido:Entre 0 y 5 años",
+                          "tipoPiso:Cerámica",
+                          "viviendaBifamiliar:S",
+                          "zonaCampestre:S",
+                          "zonaResidencial:S"
+                      ],
+                      "aproximatelocation": "N",
+                      "adminPrice": null,
+                      "zone": {
+                          "name": null,
+                          "id": null
+                      },
+                      "price": 1350000000,
+                      "checked": "Inmueble No Verificado",
+                      "id": "19797-M5693787",
+                      "sector": {
+                          "name": null
+                      },
+                      "area": 220,
+                      "forSale": "N",
+                      "extraFeatures": [
+                          "banosAuxiliar",
+                          "cercaColegioUniversidad",
+                          "cercaParque",
+                          "cercaTransportePublico",
+                          "conBanoServicio_o",
+                          "conCalefaccion",
+                          "conCanchaFutbol",
+                          "conCocinaIntegral_o",
+                          "conCuartoServicio",
+                          "conEstudioBiblioteca",
+                          "conGimnasio",
+                          "conHall",
+                          "conJardin",
+                          "conJardinInterior",
+                          "conParqueaderoVisitantes_o",
+                          "conSalonComunal",
+                          "conVigilancia7x24",
+                          "conVistaPanoramica",
+                          "conZonaLavanderia",
+                          "conZonaNinos",
+                          "conZonasVerdes",
+                          "despensa",
+                          "viviendaBifamiliar",
+                          "zonaCampestre",
+                          "zonaResidencial"
+                      ],
+                      "forRent": "N",
+                      "categoryType": null,
+                      "neighborhood": {
+                          "commonName": "Belen",
+                          "code": "0003-0050",
+                          "name": "BELEN",
+                          "id": "0003-0050",
+                          "label": "BELEN"
+                      },
+                      "region": {
+                          "code": "2",
+                          "name": "Antioquia",
+                          "id": "2",
+                          "label": "Antioquia"
+                      },
+                      "lotType": null,
+                      "status": "Usado",
+                      "amenities": {
+                          "disabilityOk": "N",
+                          "aloneOk": "N",
+                          "childrenOk": "N",
+                          "gymOk": "N",
+                          "petsOk": "N",
+                          "outdoorActivitiesOk": "N",
+                          "bikeUserOk": "N"
+                      },
+                      "city": {
+                          "code": "medellin",
+                          "name": "Medellín",
+                          "id": "3",
+                          "label": "Medellín"
+                      },
+                      "checkInDate": "2025-04-10T17:26:55.000Z",
+                      "propertyType": {
+                          "code": "2",
+                          "name": "Casa",
+                          "id": "2",
+                          "label": "Casa"
+                      },
+                      "@version": "1",
+                      "rentPrice": null,
+                      "comments": "Esta casa es una excelente opción para aquellos que buscan una vivienda amplia y cómoda en la hermosa ciudad de Medellín, situada en la próspera región de Antioquia. Con un área construida de 220.0 metros cuadrados, esta casa cuenta con un diseño moderno y funcional que se adapta a las necesidades de una familia grande o a aquellas personas que requieren de espacios amplios.\n\nLa propiedad cuenta con 5 habitaciones espaciosas y 4 baños completos, distribuidos estratégicamente en sus dos niveles. Además, cuenta con 2 amplios garajes, lo que brinda comodidad y seguridad para su vehículo. Esta casa es ideal para aquellos que valoran la privacidad, ya que cuenta con una serie de características internas que ofrecen confort y exclusividad.\n\nSi eres amante de los animales, esta es la vivienda ideal para ti, ya que admite mascotas. También cuenta con servicios básicos como agua y electricidad, así como armarios empotrados en cada habitación para un mejor aprovechamiento del es",
+                      "salePrice": 1350000000,
+                      "isPublished": "Y",
+                      "metroId": "19797-M5693787",
+                      "url": "/inmueble/venta-casa-medellin-belen-5-habitaciones-4-banos-2-garajes/19797-M5693787",
+                      "stratum": 4,
+                      "multimedia": {
+                          "images": {
+                              "count": 12,
+                              "files": [
+                                  "19797-M5693787_37",
+                                  "19797-M5693787_38",
+                                  "19797-M5693787_39",
+                                  "19797-M5693787_40",
+                                  "19797-M5693787_41",
+                                  "19797-M5693787_42",
+                                  "19797-M5693787_43",
+                                  "19797-M5693787_44",
+                                  "19797-M5693787_45",
+                                  "19797-M5693787_46",
+                                  "19797-M5693787_47",
+                                  "19797-M5693787_48"
+                              ],
+                              "mainFile": "19797-M5693787_37"
+                          }
+                      },
+                      "@timestamp": "2025-09-04T15:03:53.309052440Z",
+                      "bathroomsNumber": 4,
+                      "rentPriceRangeLabel": "N/A",
+                      "storageType": null,
+                      "location": {
+                          "lon": -75.5946953,
+                          "lat": 6.2259041
+                      },
+                      "publishedDate": "2025-08-16T03:10:10.000Z",
+                      "builtArea": 220,
+                      "businessType": {
+                          "code": "1",
+                          "name": "venta",
+                          "id": "1",
+                          "label": "venta"
+                      },
+                      "notificationCode": null,
+                      "offerorType": "Inmobiliaria",
+                      "parkingNumber": 2
+                  }
+              ],
+              "formFilters": {
+                  "tags": []
+              }
+          }
+      }
+  }
+}
