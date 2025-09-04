@@ -1,7 +1,3 @@
-"""
-Data source identification module.
-"""
-
 import json
 import os
 from typing import Dict, Any
